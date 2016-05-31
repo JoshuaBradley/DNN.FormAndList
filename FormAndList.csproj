@@ -63,9 +63,9 @@
       <HintPath>..\..\lib\DotNetNuke.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="DotNetNuke.Web.Deprecated, Version=8.0.0.777, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="DotNetNuke.Web, Version=7.3.4.45, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\Bin\DotNetNuke.Web.Deprecated.dll</HintPath>
+      <HintPath>..\..\bin\DotNetNuke.Web.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="DotNetNuke.WebUtility">
